@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "oz7ZUPSwCUsJdOho5bXz7dcQvaYXmx331NYCc9MNmv1twf22OUdZPMqza4fkmzjSf/VCANPb+FWbWisDo/whrg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\VeereshaCPattar\\OneDrive - Anthology Inc\\Desktop\\Anthology_ Contribution\\Student-GetTheInformationOfStudentById\\src\\StudentInfoById\\StudentInfoById\\StudentInfoById.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\VeereshaCPattar\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
